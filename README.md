@@ -1,7 +1,7 @@
 # SSProject
-SSProject is file Google Drive file upload web-based Application using OAuth 2.0 framework.
+SSProject is Google Drive file upload web-based Application using OAuth 2.0 framework.
 
-Refer README_Github.pdf file for project deployment details
+***Refer README_Github.pdf file for project deployment instructions
 ### Prerequisites
 
 > Enable Google Drive API through Google Developers console,
